@@ -7,7 +7,7 @@
   <url>http://maven.apache.org</url>
 
   <scm>
-    <developerConnection>scm:git:https://github.com/ii2d/repo</developerConnection>
+    <developerConnection>scm:git:https://github.com/ii2d/repo.git</developerConnection>
   </scm>
 
   <build>
